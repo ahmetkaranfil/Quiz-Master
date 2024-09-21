@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fe0519a6384c4a46aae265b12faed41, type: 3}
+  m_Name: NewQuestion-1
+  m_EditorClassIdentifier: 
+  question: "Herodot'un yazd\u0131\u011F\u0131, M\u0131s\u0131r firavununun dilin
+    k\xF6keni deneyinde, do\u011Funca \xE7obana verilerek kapat\u0131lan, o dahil
+    kimseyle konu\u015Fturulmayan \xE7ocu\u011Fun s\xF6yledi\u011Fi ilk kelime nedir?\n"
+  answers:
+  - Anne
+  - Su
+  - Ekmek
+  - Ver
+  correctAnswerIndex: 2

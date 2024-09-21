@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fe0519a6384c4a46aae265b12faed41, type: 3}
+  m_Name: NewQuestion
+  m_EditorClassIdentifier: 
+  question: "23 Nisan 1920'de a\xE7\u0131lan TBMM'nin birinci d\xF6nem milletvekillerinden
+    hangisi, milletvekili oldu\u011Fu ille do\u011Fru e\u015Fle\u015Ftirilmi\u015Ftir?\n"
+  answers:
+  - "Mustafa Kemal Pa\u015Fa, Antep"
+  - "Kaz\u0131m Karabekir Pa\u015Fa, Erzurum"
+  - "Miralay \u0130smet, Malatya"
+  - "Fevzi Pa\u015Fa, Kozan"
+  correctAnswerIndex: 3
